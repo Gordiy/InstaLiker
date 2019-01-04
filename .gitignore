@@ -2,3 +2,4 @@ set.py
 set_like.py
 test.py
 .idea/
+.__pycache__
